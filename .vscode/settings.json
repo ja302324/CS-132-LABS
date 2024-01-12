@@ -1,0 +1,7 @@
+{
+    "terminal.explorerKind": "integrated",
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "iosfwd": "cpp"
+    }
+}
